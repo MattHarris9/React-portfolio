@@ -19,7 +19,7 @@ export default
             id: 1,
             title: 'Tipster',
             service: 'The first project we did',
-            imageSrc: "./design.png",
+            imageSrc: "./Design.png",
             url: 'https://mattharris9.github.io/tipster/'
         },
         {
@@ -41,7 +41,7 @@ export default
                 id: 4,
                 title: 'Read me generator',
                 service: 'Node Program Development',
-                imageSrc: ".//clirmgen'rmgen.png",
+                imageSrc: "rmgen.png",
                 url: 'https://github.com/MattHarris9/README-generator'
             },
             { 
