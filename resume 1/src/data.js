@@ -39,24 +39,24 @@ export default
             },
             {
                 id: 4,
-                title: 'Read me generator',
-                service: 'Node Program Development',
+                title: 'Google Books',
+                service: 'A react application using the googles books api. It is my first instance of making a mern application',
                 imageSrc: "rmgen.png",
-                url: 'https://github.com/MattHarris9/README-generator'
+                url: 'https://fierce-hollows-93289.herokuapp.com'
             },
             { 
                 id: 5,
-                title: 'Eat da burger',
-                service: 'MySQL, Node, Express, Handlebars and a ORM',
-                imageSrc: "./burger.png",
-                url: 'https://github.com/MattHarris9/Burger'
+                title: 'User Directory',
+                service: 'Making a employee directory with an random user api.  One my first react apps',
+                imageSrc: "./Directory.png",
+                url: 'https://mattharris9.github.io/user-directory/'
             },
             {
                 id: 6,
-                title: 'note taker',
-                service: 'Api implementation',
-                imageSrc: "./notes.png",
-                url: 'https://github.com/MattHarris9/Note-taker'
+                title: 'Weather app',
+                service: 'Weather app create using javescript, a third party api, and has a dynamically changing html/css',
+                imageSrc: "./weather.png",
+                url: 'https://mattharris9.github.io/weatherapp.github.io/'
            }
 
                         
