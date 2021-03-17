@@ -35,7 +35,7 @@ class Navbar extends Component {
                     smooth={true}
                     offset={-70}
                     duration={500}
-                >Work</Link></li>
+                >Projects</Link></li>
                 <li><Link
                     className='link'
                     activeClass="active"
