@@ -46,10 +46,10 @@ export default
             },
             { 
                 id: 5,
-                title: 'User Directory',
-                service: 'Making a employee directory with an random user api.  One my first react apps',
+                title: 'Flash Grid',
+                service: 'An easy to use project management application.',
                 imageSrc: "./Directory.png",
-                url: 'https://mattharris9.github.io/user-directory/'
+                url: 'https://hidden-refuge-08023.herokuapp.com'
             },
             {
                 id: 6,
