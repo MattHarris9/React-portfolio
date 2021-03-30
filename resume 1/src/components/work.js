@@ -16,6 +16,8 @@ class Work extends Component {
                              service = {project.service}
                              imageSrc = {project.imageSrc}
                              url={project.url}
+                             github={project.github}
+                             link={project.link}
                      ></Project>
                 ))}
         </div>

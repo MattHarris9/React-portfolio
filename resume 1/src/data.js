@@ -20,14 +20,19 @@ export default
             title: 'Tipster',
             service: 'The first project we did',
             imageSrc: "./Design.png",
-            url: 'https://mattharris9.github.io/tipster/'
+            url: 'https://mattharris9.github.io/tipster/',
+            github: 'https://github.com/MattHarris9/tipster',
+            link: "This is the Github link!"
+
         },
         {
             id: 2,
             title: 'radical games',
             service: 'second project',
             imageSrc: "./radical.png",
-            url: 'https://raticles.herokuapp.com' 
+            url: 'https://raticles.herokuapp.com',
+            github: 'https://github.com/MattHarris9/project-2',
+            link: "This is the Github link!"
         },
 
            {
@@ -35,28 +40,36 @@ export default
             title:'Password Generator', 
              service:'First use of javascript', 
              imageSrc:"./pass.png",
-             url:'https://mattharris9.github.io/passwordgenerator.github.io/'
+             url:'https://mattharris9.github.io/passwordgenerator.github.io/',
+             github: "https://github.com/MattHarris9/passwordgenerator.github.io",
+             link: "This is the Github link!"
             },
             {
                 id: 4,
                 title: 'Google Books',
                 service: 'A react application using the googles books api. It is my first instance of making a mern application',
                 imageSrc: "rmgen.png",
-                url: 'https://fierce-hollows-93289.herokuapp.com'
+                url: 'https://fierce-hollows-93289.herokuapp.com',
+                github: 'https://github.com/MattHarris9/Google-book',
+                link: "This is the Github link!"
             },
             { 
                 id: 5,
                 title: 'Flash Grid',
                 service: 'An easy to use project management application.',
                 imageSrc: "./Directory.png",
-                url: 'https://hidden-refuge-08023.herokuapp.com'
+                url: 'https://hidden-refuge-08023.herokuapp.com',
+                github : 'https://github.com/MattHarris9/flash-grid',
+                link: "This is the Github link!"
             },
             {
                 id: 6,
                 title: 'Weather app',
                 service: 'Weather app create using javescript, a third party api, and has a dynamically changing html/css',
                 imageSrc: "./weather.png",
-                url: 'https://mattharris9.github.io/weatherapp.github.io/'
+                url: 'https://mattharris9.github.io/weatherapp.github.io/',
+                github: 'https://github.com/MattHarris9/weatherapp.github.io',
+                link: "This is the Github link!"
            }
 
                         
