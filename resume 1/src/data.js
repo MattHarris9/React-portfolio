@@ -18,7 +18,7 @@ export default
         {
             id: 1,
             title: 'Tipster',
-            service: 'The first project we did',
+            service: 'A randomizer app where it matches a movie with a random beer.',
             imageSrc: "./Design.png",
             url: 'https://mattharris9.github.io/tipster/',
             github: 'https://github.com/MattHarris9/tipster',
@@ -28,7 +28,7 @@ export default
         {
             id: 2,
             title: 'radical games',
-            service: 'second project',
+            service: 'A video game wishlist database.',
             imageSrc: "./radical.png",
             url: 'https://raticles.herokuapp.com',
             github: 'https://github.com/MattHarris9/project-2',
